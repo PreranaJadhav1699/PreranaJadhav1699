@@ -15,7 +15,7 @@ Currently pursuing an MS in Computer Science with specialization in:
 **Artificial Intelligence · Machine Learning · Deep Learning · Cloud Computing**
 
 <p align="center">
-  <img src="./Software%20Developer-1.gif" width="320" alt="Software Developer Animation" />
+  <img src="./Software%20Developer.gif" width="320" alt="Software Developer Animation" />
 </p>
 
 ---

@@ -27,8 +27,13 @@ Currently pursuing an MS in Computer Science with specialization in:
 
 <!-- core stack icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql,git,github,pandas,numpy,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,pandas,numpy,tensorflow,pytorch" />
+</p>
+
 
 <!-- platforms + specialties as badges (no 'skills' heading, just visuals) -->
 <p align="center">

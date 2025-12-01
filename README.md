@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Prerana Jadhav 👋
 
-<!--
-**PreranaJadhav1699/PreranaJadhav1699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Graduate MSCS Student | AI / ML & Cloud Computing | Software Engineer**
 
-Here are some ideas to get you started:
+I design and build intelligent software systems that bridge engineering and business impact.  
+With professional experience in enterprise application development and system integration, I am now focused on building **AI-driven and cloud-native solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am deeply interested in:
+- AI & Machine Learning for real-world decision systems  
+- Cloud engineering and scalable architectures  
+- Building intelligent web and automation platforms  
+- Data-driven application development
+
+Currently pursuing an MS in Computer Science with specialization in:
+**Artificial Intelligence · Machine Learning · Deep Learning · Cloud Computing**

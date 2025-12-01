@@ -2,7 +2,7 @@
 
 **Graduate MSCS Student | AI / ML & Cloud Computing | Software Engineer**
 
-<img align="right" src="./Software%20Developer.gif" width="260" alt="Software Developer Animation" />
+<img align="right" src="./dev-1.gif" width="260" alt="Software Developer Animation" />
 
 I design and build intelligent software systems that bridge engineering and business impact.  
 With professional experience in enterprise application development and system integration, I am now focused on building **AI-driven and cloud-native solutions**.

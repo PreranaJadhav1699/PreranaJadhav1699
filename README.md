@@ -38,7 +38,7 @@ Currently pursuing an MS in Computer Science with specialization in:
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,pandas,numpy,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=git,github,tensorflow,pytorch,pandas,numpy" />
 </p>
 
 <!-- platforms + specialties as badges (no 'skills' heading, just visuals) -->

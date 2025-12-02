@@ -59,4 +59,7 @@ Currently pursuing an MS in Computer Science with specialization in:
 
 </div>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PreranaJadhav1699&theme=github-dark&hide_border=true" />
+</p>
 

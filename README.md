@@ -35,13 +35,17 @@ Currently pursuing an MS in Computer Science with specialization in:
 </p>
 
 <!-- core stack icons -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql" />
-</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,pandas,numpy,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql,git,github,tensorflow,pytorch,sklearn" />
 </p>
+
+<!-- pandas + numpy as badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
 
 <!-- platforms + specialties as badges (no 'skills' heading, just visuals) -->
 <p align="center">

@@ -7,7 +7,7 @@ With professional experience in enterprise application development and system in
 
 <div align="right">
   <div style="background:#111111; padding:12px 12px 6px 12px; border-radius:16px; display:inline-block;">
-    <img src="./dev-1.png" width="280" alt="Software engineer illustration" />
+    <img src="./dev-1.gif" width="280" alt="Software engineer illustration" />
   </div>
 </div>
 

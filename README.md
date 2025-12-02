@@ -5,18 +5,27 @@
 I design and build intelligent software systems that bridge engineering and business impact.  
 With professional experience in enterprise application development and system integration, I am now focused on building **AI-driven and cloud-native solutions**.
 
-<img align="right" src="./dev-1.gif" width="260" alt="Software engineer illustration" />
+<div style="display:flex; align-items:flex-start; gap:32px;">
 
-I am deeply interested in:
-- AI & Machine Learning for real-world decision systems  
-- Cloud engineering and scalable architectures  
-- Building intelligent web and automation platforms  
-- Data-driven application development
+  <div>
+    <p>I am deeply interested in:</p>
+    <ul>
+      <li>AI &amp; Machine Learning for real-world decision systems</li>
+      <li>Cloud engineering and scalable architectures</li>
+      <li>Building intelligent web and automation platforms</li>
+      <li>Data-driven application development</li>
+    </ul>
+  </div>
 
-<br clear="right" />
+  <div>
+    <img src="./dev-1.gif" width="260" alt="Software engineer illustration" />
+  </div>
+
+</div>
 
 Currently pursuing an MS in Computer Science with specialization in:
 **Artificial Intelligence · Machine Learning · Deep Learning · Cloud Computing**
+
 
 
 ---

@@ -1,24 +1,31 @@
-# Hi, I'm Prerana Jadhav 👋
+<div style="background:#000000; color:#ffffff; padding:24px; border-radius:12px;">
 
-**Graduate MSCS Student | AI / ML & Cloud Computing | Software Engineer**
+<h1>Hi, I'm Prerana Jadhav 👋</h1>
+
+<p><strong>Graduate MSCS Student | AI / ML &amp; Cloud Computing | Software Engineer</strong></p>
 
 <img align="right" src="./dev-1.gif" width="260" alt="Software Developer Animation" />
 
-I design and build intelligent software systems that bridge engineering and business impact.  
-With professional experience in enterprise application development and system integration, I am now focused on building **AI-driven and cloud-native solutions**.
+<p>
+I design and build intelligent software systems that bridge engineering and business impact.
+With professional experience in enterprise application development and system integration,
+I am now focused on building <strong>AI-driven and cloud-native solutions</strong>.
+</p>
 
-I am deeply interested in:
-- AI & Machine Learning for real-world decision systems  
-- Cloud engineering and scalable architectures  
-- Building intelligent web and automation platforms  
-- Data-driven application development
+<p>I am deeply interested in:</p>
+<ul>
+  <li>AI &amp; Machine Learning for real-world decision systems</li>
+  <li>Cloud engineering and scalable architectures</li>
+  <li>Building intelligent web and automation platforms</li>
+  <li>Data-driven application development</li>
+</ul>
 
+<p>
 Currently pursuing an MS in Computer Science with specialization in:
-**Artificial Intelligence · Machine Learning · Deep Learning · Cloud Computing**
+<strong>Artificial Intelligence · Machine Learning · Deep Learning · Cloud Computing</strong>
+</p>
 
-
-
----
+<hr style="border:0; border-top:1px solid #333333; margin:24px 0;" />
 
 <!-- animated tech strip -->
 <p align="center">
@@ -34,12 +41,11 @@ Currently pursuing an MS in Computer Science with specialization in:
   <img src="https://skillicons.dev/icons?i=git,github,pandas,numpy,tensorflow,pytorch" />
 </p>
 
-
 <!-- platforms + specialties as badges (no 'skills' heading, just visuals) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce_Platform-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Apex_Code-143?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOQL-000000?style=for-the-badge" />
+  <img src="https://img.shields.io-badge/SOQL-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST%20%2F%20SOAP%20APIs-FF6F00?style=for-the-badge" />
 </p>
 
@@ -51,5 +57,6 @@ Currently pursuing an MS in Computer Science with specialization in:
   <img src="https://img.shields.io/badge/Test_Automation-2E8B57?style=for-the-badge" />
 </p>
 
----
+</div>
+
 

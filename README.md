@@ -1,6 +1,6 @@
 # Hi, I'm Prerana Jadhav 👋
 
-<img align="right" src="./dev-1.gif.png" width="260" alt="Software engineer illustration" />
+<img align="right" src="./dev-1.gif" width="260" alt="Software engineer illustration" />
 
 **Graduate MSCS Student | AI / ML & Cloud Computing | Software Engineer**
 

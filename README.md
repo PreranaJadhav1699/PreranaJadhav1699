@@ -1,6 +1,9 @@
 <div style="background:#000000; color:#ffffff; padding:24px; border-radius:12px;">
 
-<h1>Hi, I'm Prerana Jadhav 👋</h1>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=999999&color=FFFFFF&background=0F172A&center=false&vCenter=true&width=600&lines=Hi%2C+I'm+Prerana+Jadhav+%F0%9F%91%8B" alt="Hi, I'm Prerana Jadhav" />
+</p>
+
 
 <p><strong>Graduate MSCS Student | AI / ML &amp; Cloud Computing | Software Engineer</strong></p>
 

@@ -2,6 +2,11 @@
 
 <h1>Hi, I'm Prerana Jadhav 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&color=F59E0B&background=0F172A&lines=AI+%2F+ML+Engineer;Cloud-Native+Developer;Software+Engineer;Building+Intelligent+Systems;Learning+Never+Stops" />
+</p>
+
+
 <p><strong>Graduate MSCS Student | AI / ML &amp; Cloud Computing | Software Engineer</strong></p>
 
 <img align="right" src="./dev-3.gif" width="260" alt="Software Developer Animation" />

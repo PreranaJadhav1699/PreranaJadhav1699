@@ -35,8 +35,9 @@ Currently pursuing an MS in Computer Science with specialization in:
 
 <!-- animated tech strip -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=700&lines=AI+%2F+ML+%E2%80%A2+Cloud+Computing+%E2%80%A2+System+Integration;Python+%E2%80%A2+Java+%E2%80%A2+C%2B%2B+%E2%80%A2+SQL;Salesforce+Platform+%E2%80%A2+Apex+%E2%80%A2+SOQL;Automation+Testing+%E2%80%A2+CI%2FCD+Pipelines" alt="tech focus typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=700&color=A855F7&lines=AI+%2F+ML+%E2%80%A2+Cloud+Computing+%E2%80%A2+System+Integration;Python+%E2%80%A2+Java+%E2%80%A2+C%2B%2B+%E2%80%A2+SQL;Salesforce+Platform+%E2%80%A2+Apex+%E2%80%A2+SOQL;Automation+Testing+%E2%80%A2+CI%2FCD+Pipelines" alt="tech focus typing animation" />
 </p>
+
 
 <!-- core stack icons -->
 

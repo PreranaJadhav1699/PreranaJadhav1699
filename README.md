@@ -1,7 +1,7 @@
 <div style="background:#000000; color:#ffffff; padding:24px; border-radius:12px;">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=999999&center=true&vCenter=true&width=700&color=1F2937&background=E9D5FF&lines=Hi,+I'm+Prerana+Jadhav+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=999999&center=true&vCenter=true&width=700&color=1F2937&background=E9D5FF&lines=Hi,+I'm+Prerana+%F0%9F%91%8B" />
 </p>
 
 

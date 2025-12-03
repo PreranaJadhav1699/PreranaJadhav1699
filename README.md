@@ -4,7 +4,7 @@
 
 <p><strong>Graduate MSCS Student | AI / ML &amp; Cloud Computing | Software Engineer</strong></p>
 
-<img align="right" src="./dev-2.gif" width="260" alt="Software Developer Animation" />
+<img align="right" src="./dev-3.gif" width="260" alt="Software Developer Animation" />
 
 <p>
 I design and build intelligent software systems that bridge engineering and business impact.

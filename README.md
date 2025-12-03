@@ -67,6 +67,11 @@ Currently pursuing an MS in Computer Science with specialization in:
   <img src="https://img.shields.io/badge/Test_Automation-2E8B57?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PreranaJadhav1699&bg_color=0F172A&color=38BDF8&line=F59E0B&point=E5E7EB&area=true&hide_border=true" />
+</p>
+
+
 ---
 
 
